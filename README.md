@@ -1,6 +1,9 @@
-# Chrome Notes Extension
+# LinkedIn Notes Extension
 
 A simple Chrome extension that allows you to add, view, and edit notes associated with a LinkedIn profile. Notes are stored locally and can be edited directly through a small dropdown UI element that appears next to the profile.
+#
+
+![image](https://github.com/user-attachments/assets/c77eba2f-f395-42f9-b420-2062112a8f0e)
 
 ## Features
 
