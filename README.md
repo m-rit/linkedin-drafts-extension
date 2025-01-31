@@ -10,7 +10,6 @@ A simple Chrome extension that allows you to add, view, and edit notes associate
 - **Add Notes**: Add custom notes to LinkedIn profiles.
 - **Edit Notes**: Directly edit notes without needing to save explicitly (updates are saved automatically).
 - **View Notes**: View your saved notes in a small, convenient dropdown near the profile.
-- **Delete Notes**: Remove notes easily with a cross button.
 
 ## Installation
 
